@@ -8,6 +8,7 @@ Inherited from MetGen
 
 # Data
 [EntailmentBank dataset](https://allenai.org/data/entailmentbank).
+
 Binarized EntailmentBank dataset can be found in `data/entailment_trees_binary`
 
 ```
