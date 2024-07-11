@@ -1,5 +1,5 @@
 # TER
-Implementation of `Empowering Tree-structured Entailment Reasoning: Rhetorical Perception and LLM-driven Interpretability. COLING-2024`
+Empowering Tree-structured Entailment Reasoning: Rhetorical Perception and LLM-driven Interpretability.
 
 
 # Environment
@@ -8,7 +8,6 @@ Inherited from MetGen
 
 # Data
 [EntailmentBank dataset](https://allenai.org/data/entailmentbank).
-
 Binarized EntailmentBank dataset can be found in `data/entailment_trees_binary`
 
 ```
