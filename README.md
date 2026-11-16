@@ -1,5 +1,5 @@
 # TER
-Empowering Tree-structured Entailment Reasoning: Rhetorical Perception and LLM-driven Interpretability.
+Empowering Tree-structured Entailment Reasoning: Rhetorical Perception and LLM-driven Interpretability. LREC-COLING 2024
 
 
 # Environment
